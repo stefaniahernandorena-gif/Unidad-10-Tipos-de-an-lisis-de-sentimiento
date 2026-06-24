@@ -53,3 +53,12 @@ pandas==2.2.2
 matplotlib==3.7.1
 seaborn==0.13.1
 spacy==3.8.14
+
+# 1. Clonar el repositorio institucional
+git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+
+# 2. Instalar las dependencias del entorno
+pip install -r requirements.txt
+
+# 3. Cargar y ejecutar el Notebook en su entorno de preferencia (Google Colab / Jupyter):
+# Archivo principal: Unidad_10_·_Tipos_de_análisis_de_sentimiento.ipynb
