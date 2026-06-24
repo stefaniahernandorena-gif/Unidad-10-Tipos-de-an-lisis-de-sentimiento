@@ -1,0 +1,9 @@
+### 1. Archivo `requirements.txt`
+Coloque en la raíz de su espacio de trabajo un archivo con las versiones congeladas de las librerías:
+```text
+transformers==4.48.0
+torch==2.5.1
+pandas==2.2.2
+matplotlib==3.7.1
+seaborn==0.13.1
+spacy==3.8.14
